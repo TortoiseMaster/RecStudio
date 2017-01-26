@@ -9,30 +9,30 @@
         android:text="sERIES"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button" />
+        android:id="@+id/botonSeries" />
 
     <Button
         android:text="Peliculas"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button2" />
+        android:id="@+id/botonPeliculas" />
 
     <Button
         android:text="Amigos"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button3" />
+        android:id="@+id/botonAmigos" />
 
     <Button
         android:text="Cambiar nombre de usuario"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button4" />
+        android:id="@+id/botonCambiarNombre" />
 
     <Button
         android:text="Contactar administrador"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button5" />
+        android:id="@+id/botonContactarAdmin" />
 
 </LinearLayout>
